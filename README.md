@@ -17,6 +17,8 @@ The dashboard analyzes a dataset with:
 
 The dashboard provides a visual breakdown of the data using multiple charts:
 
+![Spotify Data Dashboard](SPOTIFY%20VISUALIZATION.png) 
+
 
 #### 3.1. Leaderboards
 
